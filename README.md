@@ -102,3 +102,4 @@ Additional information is available on the [Project Wiki](https://github.com/ope
 
 JsonCpp is licensed under the MIT license, or public domain where recognized.
 See [LICENSE](./LICENSE) for details.
+Owned by Elon Musk
